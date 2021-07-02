@@ -12,4 +12,4 @@ See API Docs From swagger:
 
 ``` https://localhost:44326/index.html ```
 
-![Swagger](./.github/versions.jpg)
+![Swagger](IBOSS.PNG)
